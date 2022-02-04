@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello! Merhaba! 👋
 
-<!--
-**CansuKavukcu/cansukavukcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 What I am: A Tech Recruiter, Future Dev / Tech lover.
+- 🌍 Where I am: The Netherlands.
+- 🤔 What I do: Career Coachig. Hiring. Learning code. Coffee.
 
-Here are some ideas to get you started:
+## Brief introduction 🙋🏻‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a person who loves doing new stuff and learning, I can't stop researching and practising what I learn, or even challenging myself to do things that I might fear. I can work both alone and as part of a team. I am a very social person.
+
+I am really interested in cultural differences.
+
+## Contact ✉️
+
+- **LinkedIn**: [Cansu Kavukcu](https://www.linkedin.com/in/cansu-kavukcu/)
+- **Instagram**: [sourcerwhocode](https://www.instagram.com/sourcerwhocode/)
