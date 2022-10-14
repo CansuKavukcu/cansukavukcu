@@ -1,6 +1,6 @@
 # Hello! Merhaba! 👋
 
-- 💻 What I am: A Tech Recruiter, Future Dev / Tech lover.
+- 💻 What I am: A Tech Recruiter, Future Dev / Tech lover🫧.
 - 🌍 Where I am: The Netherlands.
 - 🤔 What I do: Career Coachig. Hiring. Learning code. Coffee.
 
