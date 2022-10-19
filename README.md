@@ -1,4 +1,4 @@
-# <p align="center" style="font-weight:bold"> 👋 <b>Hi there! **_Merhaba_**</b> <p>
+# <p align="center" style="font-weight:bold"> 👋 <b>Hi there! **_Merhaba☺️_**</b> <p>
 
 - 💻 **What I am**: A Tech Recruiter, Future Dev / Tech lover🫧.
 - 🌍 **Where I am**: The Netherlands.
