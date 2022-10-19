@@ -9,7 +9,7 @@
 
 I am a person who loves doing new stuff and learning, I can't stop researching and practising what I learn, or even challenging myself to do things that I might fear. I can work both alone and as part of a team. I am a very social person.
 
-I am really interested in cultural differences.
+I am really interested in _cultural differences_.
 
 
 
