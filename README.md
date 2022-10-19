@@ -11,14 +11,14 @@ I am a person who loves doing new stuff and learning, I can't stop researching a
 
 I am really interested in cultural differences.
 
-class Francesco:
-  def __init__(self):
-    self.name = 'Cansu'
-    self.surname = 'Kavukcu'
-    self.education = ['PoliTo', 'Unipa']
-    self.experience = ['RadboudUMC', 'AIKO', 'PoliTo', 'Omdena']
-    self.interests = ['NLP', 'CV', 'Healthcare', 'Finance', 'Space']
-    self.hobbies = ['Powerlifting', 'Cycling', 'Reading', 'Cooking']
+- class Francesco:
+-  def __init__(self):
+-    self.name = 'Cansu'
+-   self.surname = 'Kavukcu'
+-   self.education = ['PoliTo', 'Unipa']
+-   self.experience = ['RadboudUMC', 'AIKO', 'PoliTo', 'Omdena']
+-   self.interests = ['NLP', 'CV', 'Healthcare', 'Finance', 'Space']
+-   self.hobbies = ['Powerlifting', 'Cycling', 'Reading', 'Cooking']
 
 
 ## Contact ✉️
