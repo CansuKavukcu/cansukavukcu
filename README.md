@@ -1,4 +1,4 @@
-# Hello! Merhaba! 👋
+# <p align="center" style="font-weight:bold"> 👋 <b>Hi there!</b> <p>
 
 - 💻 **What I am**: A Tech Recruiter, Future Dev / Tech lover🫧.
 - 🌍 **Where I am**: The Netherlands.
