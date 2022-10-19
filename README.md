@@ -12,14 +12,14 @@ I am a person who loves doing new stuff and learning, I can't stop researching a
 I am really interested in _cultural differences_.
 
 ```python
-class Francesco:
+class Cansu:
   def __init__(self):
     self.name = 'Cansu'
     self.surname = 'Kavukcu'
-    self.education = ['PoliTo', 'Unipa']
-    self.experience = ['RadboudUMC', 'AIKO', 'PoliTo', 'Omdena']
-    self.interests = ['NLP', 'CV', 'Healthcare', 'Finance', 'Space']
-    self.hobbies = ['Powerlifting', 'Cycling', 'Reading', 'Cooking']
+    self.education = ['Pythob', 'Lowcode']
+    self.experience = ['Python', 'Lowdefy', 'AWS']
+    self.interests = ['LowCode-NoCode', 'Sourcing', 'Building APP', 'Finance', 'Space']
+    self.hobbies = ['BodyPump', 'Cycling', 'Reading', 'Cooking']
 ```
 <br />
 
