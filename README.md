@@ -1,8 +1,8 @@
 # Hello! Merhaba! 👋
 
-- 💻 What I am: A Tech Recruiter, Future Dev / Tech lover🫧.
-- 🌍 Where I am: The Netherlands.
-- 🤔 What I do: Building my own sourcing application. Hiring. Learning code. Coffee☕️.
+- 💻 **What I am**: A Tech Recruiter, Future Dev / Tech lover🫧.
+- 🌍 **Where I am**: The Netherlands.
+- 🤔 **What I do**: Building my own sourcing application. Hiring. Learning code. Coffee☕️.
 
 
 ## About me 🙋‍♀️
