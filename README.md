@@ -16,7 +16,7 @@ class Cansu:
   def __init__(self):
     self.name = 'Cansu'
     self.surname = 'Kavukcu'
-    self.education = ['Pythob', 'Lowcode']
+    self.education = ['Python', 'Lowcode']
     self.experience = ['Python', 'Lowdefy', 'AWS']
     self.interests = ['LowCode-NoCode', 'Sourcing', 'Building APP', 'Finance', 'Space']
     self.hobbies = ['BodyPump', 'Cycling', 'Reading', 'Cooking']
