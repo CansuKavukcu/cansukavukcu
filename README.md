@@ -30,4 +30,4 @@ class Cansu:
 ## Contact ✉️
 
 - **LinkedIn**: [Cansu Kavukcu](https://www.linkedin.com/in/cansu-kavukcu/)
-- **Instagram**: [sourcerwhocode](https://www.instagram.com/sourcerwhocode/)
+- **Instagram**: [techycansu](https://www.instagram.com/sourcerwhocode/)
